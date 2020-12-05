@@ -1,0 +1,22 @@
+.formik_form {
+	width: 800px;
+	height: 800px;
+	background-color: lightgrey;
+	text-align: center;
+	color: white;
+}
+
+.formik_form input {
+	height: 40px;
+	border-radius: 10px;
+	outline: none;
+	border: none;
+	margin: 5px;
+}
+.formik_form button {
+	height: 40px;
+	border-radius: 5px;
+	font-weight: bold;
+	border: none;
+	margin: 5px;
+}
